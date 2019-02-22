@@ -1,4 +1,5 @@
 it is so a planet
 no it isn't!
-how dare you?! conflict conflict
-
+how dare you?! conflict conflict, This is the third line
+>>>>>>> f7975be0f662670219d8ca79f50eebd4dbf1becb
+haha
